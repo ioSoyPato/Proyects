@@ -1,3 +1,1 @@
 # proyects
-
-Bayesian 
